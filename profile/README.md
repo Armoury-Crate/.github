@@ -66,7 +66,7 @@ Armoury Crate is best for users who own supported ASUS hardware and want fewer s
 
 It is less useful on systems without ASUS hardware because the most valuable panels depend on device support. If someone is asking what is armoury crate asus, the answer should include this hardware tie: Armoury Crate is not a generic optimizer, and armoury crate software works best when it can read real ASUS device modules.
 
-![Armoury Crate dashboard with ASUS device controls and RGB lighting panels](https://www.softportal.com/scr/48803/armoury-crate-big-1.png)
+![Armoury Crate dashboard with ASUS device controls and RGB lighting panels](https://avatars.mds.yandex.net/i?id=594eddaf34529944684cbf81b7cf455f_l-5233169-images-thumbs&n=13)
 
 ## Repair and Setup Questions
 
